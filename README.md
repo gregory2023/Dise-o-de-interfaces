@@ -1,4 +1,4 @@
-# Proyecto de Diseño de Interfaces
+# Diseño de Interfaces
 
 Este repositorio contiene los ejercicios y prácticas de la asignatura **Diseño de Interfaces**, realizados durante el curso.
 
