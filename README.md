@@ -1,43 +1,25 @@
-# Diseño de interfaces
+# Proyecto de Diseño de Interfaces
 
-- Autor: Gregory esteban canon R.
-- GitHub: https://github.com/gregory2023
+Este repositorio contiene los ejercicios y prácticas de la asignatura **Diseño de Interfaces**, realizados durante el curso.
 
----
-### Breves  apuntes Markdown
+## Contenido
 
-# # nivel 1
-## h2
-### h3
-#### h4v
+- `Ejercicios/` → Carpeta con ejercicios prácticos.
+- `Proyectos/` → Proyectos más completos realizados en clase.
+- `Documentación/` → Notas y recursos sobre diseño de interfaces.
 
-normalmante codigo html dentro de markdonw
+## Tecnologías utilizadas
 
-<h1>nivel 1</h1>
+- python
+- UI/UX
+- Frameworks y librerías según cada práctica (opcional)
+- Herramientas de prototipado y diseño (Figma, Adobe XD, etc.)
 
-# nivel 1
+## Uso
 
-listas ordenadas se indica con guiones 
+1. Clonar el repositorio:
 
-- item 1
-- item 2
-    -- item 2.1
-    -- item 2.2
-lista ordenada se indica con numeros
- 1. item 1
- 2. item 2
-    -item 3
-
-- [x] hacer la cama
-- [x] estudiar
-- [x] comer
-- [x] crecer
-
-
-
-
-**negrita** __negrita__
-
-*cursiva* o _cursiva_
+```bash
+git clone https://github.com/TuUsuario/NombreRepositorio.git
 
 
